@@ -1,11 +1,13 @@
-Einleitung
+# Solar auf der Garage mit Batterie - was sind die Zahlen/Aussagen dazu
+
+## Einleitung
 
 - Zeiträume kaum vergleichbar, es ändern sich dauerhaft Variablen und Bedingungen, 
 -- bspw. System: Anzahl/Ausrichtung Paneele, Batteriegröße; Erzeugung: Sonnenstand und Verschattung, Bezug; Urlaub, Lasten
 - gesteuerte Einspeisung funktioniert nur mit Smartmeter das Batteriesystem regelt (bei mir Shelly Pro 3 EM und Zendure Hub)
 -- sonst Grundlastdeckung, was aber viel verschwendet wegen Lastspitzen wie Kühlschrank, Pumpen usw., siehe dazu Teil in Zahlen 
 
-Zahlen und Fakten
+## Zahlen und Fakten
 
 Zeitstrahl
 davor
@@ -30,7 +32,7 @@ TODO % in Sonnendauer pro Tag
 
 Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet hat. Mit dem Fix wurde das auf Bypass umgestellt, d.h. alles was bei voller Batterie erzeugt wird, geht direkt ins Hausnetz und wird dort falls nicht verbraucht, ins öffentliche Netz eingespeist. Siehe Situation im Sommer ab 15 Uhr
 
-Zusammenfassung
+## Zusammenfassung
 - aufgrund meiner Verschattung und Ausrichtung, sparsam sein bis 11 Uhr, davor kaum Erzeugung
 - wenn die Batterie voll ist (Im Sommer Mai - August) ab ca. 15 Uhr --> variable Verbraucher anschalten, sonst Einspeisung in öffentliches Netz
 -- E-Bike Batterie, Spülmaschine, Waschmaschine, Laptop-Akkus
