@@ -2,7 +2,7 @@
 
 ## tl;dr
 
-Seit dem Start vor 309 € eingespart. Intrinsische Motivation und Spaß bei der gekonnten Lastverteilung riesig.
+Seit dem Start vor 309 € eingespart. PV-Eigenverbauch bei ca 66 %, Autarkie über die Gesamtzeit ca. 44 %. Mit größere Batterie bewegt sie sich aktuel in Richtung 55 %. Intrinsische Motivation und Spaß bei der gekonnten Lastverteilung riesig.
 
 ## Einleitung
 
