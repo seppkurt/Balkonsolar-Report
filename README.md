@@ -9,6 +9,8 @@
 
 ## Zahlen und Fakten
 
+<div style="text-align: center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-z5dD4E9KlhfY2olzrEX0vFCz-tpt3txlGv_PSdX61e7uvdKEYowRO_AByZfbT4_DFFLDh1CJMndW/pubhtml?widget=true&amp;headers=false"></iframe></div>
+
 Zeitstrahl
 davor
 nur PV
@@ -28,24 +30,6 @@ Winter Nov - Januar nahe 0 kWh
 Übergang Ab Feb - April und Sep - Okt 2,5 - 3,5 kWh 
 Sommer Mai - August, 3,5 - 5 kWh
 TODO % in Sonnendauer pro Tag
-
-| Datum        | Abstand in Tagen | Zählerstand (kWh) | Zählerstand / Abstand in Tagen | Erzeugung (geschätzt) | Eigenverbrauch | Einspeisung | Autarkie | Beschreibung |
-|--------------|------------------|-------------------|-------------------------------|-----------------------|----------------|-------------|----------|--------------|
-| 26.08.2023   | 0                | 0                 |                               |                       |                |             |          |              |
-| 01.01.2024   | 128              | 678               | 5.30                          | Geschätzt 2 kWh pro Ta |                |             |          |              |
-| 01.04.2024   | 90               | 1148              | 5.75                          | Geschätzt 2 kWh pro Tag |                |             |          |              |
-| 14.05.2024   | 43               | 1245              | 2.79                          | Geschätzt 2 kWh pro Tag |                | 90-120 W    |          | Ab hier 2 kWh Batterie, fixe Einspeisung |
-| 24.05.2024   | 10               | 1268              | 2.30                          |                       |                |             |          |              |
-| 04.06.2024   | 11               | 1270              | 0.18                          |                       |                | Nahe 0 W    |          | Shelley Pro 3 EM eingebaut |
-| 23.06.2024   | 19               | 1307              | 1.95                          |                       |                |             |          | Ab hier 4 kWh Batterie |
-| 03.08.2024   | 41               | 1367              | 1.46                          |                       |                |             |          |              |
-| 16.09.2024   | 44               | 1422              | 1.25                          |                       |                |             |          |              |
-| 09.10.2024   | 23               | 1470              | 2.09                          |                       |                |             |          |              |
-| 03.11.2024   | 25               | 1512              | 1.68                          |                       |                |             |          |              |
-| 15.12.2024   | 42               | 1768              | 6.10                          |                       |                |             |          |              |
-| 03.01.2025   | 19               | 1866              | 5.16                          |                       |                |             |          |              |
-
-
 
 Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet hat. Mit dem Fix wurde das auf Bypass umgestellt, d.h. alles was bei voller Batterie erzeugt wird, geht direkt ins Hausnetz und wird dort falls nicht verbraucht, ins öffentliche Netz eingespeist. Siehe Situation im Sommer ab 15 Uhr
 
