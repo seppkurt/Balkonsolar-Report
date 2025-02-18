@@ -39,14 +39,14 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 #### **Endsumme:**  
 **3.165,88 €**
 
-### Ammortisation seit Projektstart, Stand  18.Februar 2025
-kWh erzeugt seit Beginn: **1.561 kWh** (Zahl aus Wechselrichter der an Außensteckdose angeschlossen ist)
-kWh davon ohne Vergütung eingespeist: **530 kWh** (Zahl aus Stromzähler Einspeisezählwerk)
-Selbstverbaucht: **1.030 kWh**
-Ersparnis bei 0,30€/kWh: **309 €**
-PV-Eigenverbauch: **66 %**
-Autarkie bei ca 2.300 kWh Bedarf: **44 %** (für Zeitraum bis große Batterie 1.300 kWH ca 40 % und danach 1.000 kWh ca 50%)
-Freude und Spaß das System aufzusetzen: **unbezahlbar**
+### Ammortisation seit Projektstart bis Stand 18.Februar 2025
+- kWh erzeugt seit Beginn: **1.561 kWh** (Zahl aus Wechselrichter der an Außensteckdose angeschlossen ist)
+- kWh davon ohne Vergütung eingespeist: **530 kWh** (Zahl aus Stromzähler Einspeisezählwerk)
+- Selbstverbaucht: **1.030 kWh**
+- Ersparnis bei 0,30 €/kWh: **309 €**
+- **PV-Eigenverbauch: 66 %**
+- **Autarkie bei ca 2.300 kWh Bedarf: 44 %** (für Zeitraum bis große Batterie 1.300 kWH ca 40 % und danach 1.000 kWh ca 50%)
+- Freude und Spaß das System aufzusetzen: **unbezahlbar**
 
 ## Zusammenfassung
 - aufgrund meiner Verschattung und Ausrichtung, sparsam sein bis 11 Uhr, davor kaum Erzeugung
