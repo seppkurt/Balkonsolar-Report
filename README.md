@@ -34,7 +34,8 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 - **Zendure Solarflow Hub2000 + AB2000**: 1.258,00 €  
 - **Zusätzliche Zendure AB2000**: 795,00 €  
 - **Kabel und Sonstiges**: 75,00 €  
-- **Shelly Pro 3 EM Smartmeter**: 82,90 €  
+- **Shelly Pro 3 EM Smartmeter**: 82,90 €
+- fehlt noch: Ahoy DTU
 
 #### **Summe der Kosten:**  
 **1.200,00 € + 254,98 € + 1.258,00 € + 795,00 € + 75,00 € + 82,90 € = 3.665,88 €**
