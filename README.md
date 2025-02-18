@@ -1,5 +1,9 @@
 # Solar auf der Garage mit Batterie - was sind die Zahlen/Aussagen dazu
 
+## tl;dr
+
+Seit dem Start vor 309 € eingespart. Intrinsische Motivation und Spaß bei der gekonnten Lastverteilung riesig.
+
 ## Einleitung
 
 - Zeiträume kaum vergleichbar, es ändern sich dauerhaft Variablen und Bedingungen, 
@@ -14,7 +18,9 @@
 - ab November 2024 Ausrichtung und Abstand der Module optimiert; 1,3 m Abstand und je 2 Module Ausrichtung SSO bzw. SSW
 - viel Verschattung durch Haus und Baum
 - Jahresverbauch Haushalt siehe Tab "Naturstrom Abrechnung"
+- aufgrund Bakonsolar keine Einspeisevergütung für Strom der ins öffentliche Netz eingespeist wird und nicht lokal verbraucht wird.
 - Grundlast (zB nachts, ohne Kochen/Spülen, TV, Büro, Waschen) 80-140 (für 3 min) kWh, die Batterie deckt das für 15-20 Stunden, im Winter höher
+- Mit einem weiteren kleinen Solarpanel (220 kWp) auf der Vorderseite des Hauses lässt sich der Grundbedarf zwischen 12 und 13:30 gut decken.
 
 <div style="text-align: center"><iframe width="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-z5dD4E9KlhfY2olzrEX0vFCz-tpt3txlGv_PSdX61e7uvdKEYowRO_AByZfbT4_DFFLDh1CJMndW/pubhtml?widget=true&amp;headers=false"></iframe></div>
 
@@ -39,6 +45,8 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 #### **Endsumme:**  
 **3.165,88 €**
 
+## Zusammenfassung
+
 ### Ammortisation seit Projektstart bis Stand 18.Februar 2025
 - kWh erzeugt seit Beginn: **1.561 kWh** (Zahl aus Wechselrichter der an Außensteckdose angeschlossen ist)
 - kWh davon ohne Vergütung eingespeist: **530 kWh** (Zahl aus Stromzähler Einspeisezählwerk)
@@ -48,7 +56,8 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 - **Autarkie bei ca 2.300 kWh Bedarf: 44 %** (für Zeitraum bis große Batterie 1.300 kWH ca 40 % und danach 1.000 kWh ca 50%)
 - Freude und Spaß das System aufzusetzen: **unbezahlbar**
 
-## Zusammenfassung
+### Sonst
+
 - aufgrund meiner Verschattung und Ausrichtung, sparsam sein bis 11 Uhr, davor kaum Erzeugung
 - wenn die Batterie voll ist (Im Sommer Mai - August) ab ca. 15 Uhr STROM VERBRAUCHEN
     - variable Verbraucher anschalten, sonst Einspeisung in öffentliches Netz
@@ -59,3 +68,7 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 - TV und Desktop PC ziehen ordentlich, Kochen und Backen hat hohe Peaks und verbraucht viel Energie, Trockner braucht sehr viel Energie
 - Steuerung mit dem Volkszähler-Setup (Optokpoppler) hat 1 min Verzögerung und verpasst damit die Lastspitzen
 - meine Faustregel 1 (für mein Setup und als Hobby Budget für Batterie) "Solange der Haushalt Strom vom Netz bezieht und trotzdem irgendwann eingespeist wird, ist der Akku zu klein" oder "Solange der Verbrauch höher ist als die Erzeugung ist Einspeisung kein Thema"
+
+## Next
+
+- noch 1 kWh Batterie dazusetzen, bereits Mitte April ist der Akku in ca. 4 Stunden (ca. 14:30) voll, wenn dann nicht verbraucht wird, geht der Strom als Einspeisung "verloren"
