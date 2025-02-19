@@ -21,6 +21,7 @@ Seit dem Start vor 309 € eingespart. PV-Eigenverbauch bei ca 66 %, Autarkie ü
 - aufgrund Bakonsolar keine Einspeisevergütung für Strom der ins öffentliche Netz eingespeist wird und nicht lokal verbraucht wird.
 - Grundlast (zB nachts, ohne Kochen/Spülen, TV, Büro, Waschen) 80-140 (für 3 min) kWh, die Batterie deckt das für 15-20 Stunden, im Winter höher
 - Mit einem weiteren kleinen Solarpanel (220 kWp) auf der Vorderseite des Hauses lässt sich der Grundbedarf zwischen 12 und 13:30 gut decken.
+- Erzeugung ergänzt in der Tabelle
 
 <div style="text-align: center"><iframe width="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-z5dD4E9KlhfY2olzrEX0vFCz-tpt3txlGv_PSdX61e7uvdKEYowRO_AByZfbT4_DFFLDh1CJMndW/pubhtml?widget=true&amp;headers=false"></iframe></div>
 
