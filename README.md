@@ -23,7 +23,7 @@ Seit dem Start vor 309 € eingespart. _**(<-- Satz erscheint mir unvollständig
 - Mit einem weiteren kleinen Solarpanel (220 kWp) auf der Vorderseite des Hauses lässt sich der Grundbedarf zwischen 12 und 13:30 gut decken.
 - Erzeugung ergänzt in der Tabelle
 
-<div style="text-align: center"><iframe width="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-z5dD4E9KlhfY2olzrEX0vFCz-tpt3txlGv_PSdX61e7uvdKEYowRO_AByZfbT4_DFFLDh1CJMndW/pubhtml?widget=true&amp;headers=false"></iframe></div>
+<div style="text-align: center"><iframe width="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-z5dD4E9KlhfY2olzrEX0vFCz-tpt3txlGv_PSdX61e7uvdKEYowRO_AByZfbT4_DFFLDh1CJMndW/pubhtml?widget=true&amp;headers=false"></iframe></div> _**(<-- Kannst du noch einen direkten Link zur Tabelle einfügen? Würde sie mir gern in groß ansehen.)**_
 
 Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet hat. Mit dem Fix wurde das auf Bypass umgestellt, d.h. alles was bei voller Batterie erzeugt wird, geht direkt ins Hausnetz und wird dort falls nicht verbraucht, ins öffentliche Netz eingespeist. Siehe Situation im Sommer ab 15 Uhr
 
