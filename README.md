@@ -2,7 +2,7 @@
 
 ## tl;dr
 
-<span style="color: orange"> Seit dem Start vor 309 € eingespart. (Satz erscheint mir unvollständig)</span> PV-Eigenverbauch bei ca 66 %, Autarkie über die Gesamtzeit ca. 44 %. Mit größere Batterie bewegt sie sich aktuel in Richtung 55 %. Intrinsische Motivation und Spaß bei der gekonnten Lastverteilung riesig.
+$${\color{orange} Seit dem Start vor 309 € eingespart. (Satz erscheint mir unvollständig)}$$ PV-Eigenverbauch bei ca 66 %, Autarkie über die Gesamtzeit ca. 44 %. Mit größere Batterie bewegt sie sich aktuel in Richtung 55 %. Intrinsische Motivation und Spaß bei der gekonnten Lastverteilung riesig.
 
 ## Einleitung
 
