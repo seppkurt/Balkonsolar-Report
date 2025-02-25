@@ -2,7 +2,8 @@
 
 ## tl;dr
  
-Seit dem Start vor 309 € eingespart. _**(<-- Satz erscheint mir unvollständig)**_ PV-Eigenverbauch bei ca 66 %, Autarkie über die Gesamtzeit ca. 44 %. Mit größere Batterie bewegt sie sich aktuel in Richtung 55 %. Intrinsische Motivation und Spaß bei der gekonnten Lastverteilung riesig.
+Seit dem Start am 20.April 2023 wurden 309 € eingespart. PV-Eigenverbauch bei ca 66 %, Autarkie über die Gesamtzeit ca. 44 %. Mit größere Batterie bewegt sie sich aktuell in Richtung 55 %. Ab Ende Februar bis Mitte Oktober liefert die Anlage bei Sonnenschein ca 3 kWh am Tag. Das deckt bis zu 60 % des täglichen Strombedarfs. Die Stromrechnung hat sich dadurch um 20-40 % reduziert, je nach Betrachtungszeitraum.
+Intrinsische Motivation und Spaß bei der gekonnten Lastverteilung riesig.
 
 ## Einleitung
 
@@ -37,15 +38,16 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 - **Kabel und Sonstiges**: 75,00 €  
 - **Shelly Pro 3 EM Smartmeter**: 82,90 € (keine Installationskosten)
 - **Ahoy DTU (OTA Auslesen des Hoymiles Wechselrichter)**: 24 €
-
+- **Zusätzliche Zendure AB1000S**: 328,00 €
+- 
 #### **Summe der Kosten:**  
-**1.200,00 € + 254,98 € + 1.258,00 € + 795,00 € + 75,00 € + 82,90 € = 3.665,88 €**
+**1.200,00 € + 254,98 € + 1.258,00 € + 795,00 € + 75,00 € + 82,90 € + 328 € = 3.993,88 €**
 
 #### **Abzüglich Förderung Berlin:**  
-**3.665,88 € - 500,00 € = 3.165,88 €**  
+**3.993,88 € - 500,00 € = 3.493,88 €**  
 
 #### **Endsumme:**  
-**3.165,88 €**
+**3.493,88 €** inklusive jede Menge Spaß bei den Arbeiten am System und Austauschmit Freunden/Interessierten dazu
 
 ## Zusammenfassung
 
@@ -58,17 +60,23 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 - **Autarkie bei ca 2.300 kWh Bedarf _(<-- Die 2300kWh Bedarf gelten sicher auch seit Beginn und ergeben sich aus PV-Erzeugung (inkl. Batteriepuffer) und Bezug aus dem Netz in dem Zeitraum, oder?)_: 44 %** (für Zeitraum bis große Batterie 1.300 kWH ca 40 % und danach 1.000 kWh ca 50%) _**(<-- Kannst du das nochmal genauer aufschlüsseln?)**_ 
 - Freude und Spaß das System aufzusetzen: **unbezahlbar**
 
-### Sonst
+### Sonstiges
 
 - aufgrund meiner Verschattung und Ausrichtung, sparsam sein bis 11 Uhr, davor kaum Erzeugung
-- wenn die Batterie voll ist (Im Sommer Mai - August) ab ca. 15 Uhr STROM VERBRAUCHEN _**(<-- Wie wäre es mit netzdienlichem Verhalten, d.h. Einspeisen zur Mittagszeit gänzlich verhindern?)**_
+- kleines Solarmodule mit 240 kWp mit Solarnative-Wechselrichter auf der Vorderseite des Hauses erzeugt am Vormittag bis Mittag 200-300 kWh.
+- wenn die Batterie voll ist (Im Sommer Mai - August) ab ca. 15 Uhr STROM VERBRAUCHEN
     - variable Verbraucher anschalten, sonst Einspeisung in öffentliches Netz
     - E-Bike Batterie, Spülmaschine, Waschmaschine, Laptop-Akkus
-- mit Batterie 75% des Jahres keine Stromkosten während Abwesenheit (Urlaub)
+    - Frage Stefan: "Wie wäre es mit netzdienlichem Verhalten, d.h. Einspeisen zur Mittagszeit gänzlich verhindern?
+    - Antwort Sebastian: "Ja, theoratisch möglich. Aber bei meiner Anlage (Ausrichtung, Größe, Verschattung) eher kein Problem. 
+- mit Batterie während Abwesenheit (Urlaub) 75% des Jahres keine Stromkosten
 - Große Verbraucher nicht paralell betreiben wenn dafür PV-Strom verwendet werden soll
-- Falls große Verbraucher sich unterhalb 800 Watt betreiben lassen bspw. PC (Notebook Akku) oder e-bike Akku sinnvoll dann einsetzbar wenn genügend Strom vorhanden _**(<-- Du meinst wenn sich größere Verbraucher in ihrer Last regeln lassen?)**_
+- Falls große Verbraucher sich unterhalb 800 Watt betreiben lassen bspw. PC (Notebook Akku) oder e-bike Akku sinnvoll dann einsetzbar, wenn genügend Strom vorhanden. Entweder sie lassen sich in ihrer Last regeln oder gehen einfach nicht mit der Lastspitze oberhalb 800 Watt.
+    - Auch die Verwendung von mehr als einem Balkonkraftwerk könnte das lösen. Dabei werden dann mehr als 800 Watt an das Hausnetz abgegeben (gesetzlich erlaubt bis zu 3-mal).
 - TV und Desktop PC ziehen ordentlich, Kochen und Backen hat hohe Peaks und verbraucht viel Energie, Trockner braucht sehr viel Energie
-- Steuerung mit dem Volkszähler-Setup (Optokpoppler) hat 1 min Verzögerung und verpasst damit die Lastspitzen _**(<-- Das ließe sich wegoptimieren, liegt vor Allem an Abtastraten und Mittelungen in der Volkszähler-Konfiguration.)**_
+- Steuerung mit dem Volkszähler-Setup (Optokpoppler) hat 1 min Verzögerung und verpasst damit die Lastspitzen
+    - Anmerkung von Stefan: "Das ließe sich wegoptimieren, liegt vor Allem an Abtastraten und Mittelungen in der Volkszähler-Konfiguration"
+    - Antwort Sebastian: "Ja okay, allerdings braucht es dann trotzdem noch die Batteriesteuerung die darauf reagiert. Zendure bietet da z.B. aktuell nur Shelly Support an."
 - meine Faustregel 1 (für mein Setup und als Hobby Budget für Batterie) "Solange der Haushalt Strom vom Netz bezieht und trotzdem irgendwann eingespeist wird, ist der Akku zu klein" oder "Solange der Verbrauch höher ist als die Erzeugung ist Einspeisung kein Thema"
 
 ## Next
