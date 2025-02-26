@@ -5,6 +5,8 @@
 Seit dem Start am 20.April 2023 wurden 309 € eingespart. PV-Eigenverbauch bei ca 66 %, Autarkie über die Gesamtzeit ca. 44 %. Mit größere Batterie bewegt sie sich aktuell in Richtung 55 %. Ab Ende Februar bis Mitte Oktober liefert die Anlage bei Sonnenschein ca 3 kWh am Tag. Das deckt bis zu 60 % des täglichen Strombedarfs. Die Stromrechnung hat sich dadurch um 20-40 % reduziert, je nach Betrachtungszeitraum.
 Intrinsische Motivation und Spaß bei der gekonnten Lastverteilung riesig.
 
+![PXL_20241125_110133909](https://github.com/user-attachments/assets/8e485d8e-2a5a-46eb-bcf3-09ab57c2eb68)
+
 ## Einleitung
 
 - Zeiträume kaum vergleichbar, es ändern sich dauerhaft Variablen und Bedingungen, 
@@ -49,6 +51,8 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 
 #### **Endsumme:**  
 **3.493,88 €** inklusive jede Menge Spaß bei den Arbeiten am System und Austauschmit Freunden/Interessierten dazu
+
+![PXL_20240517_063642188](https://github.com/user-attachments/assets/9ed1520c-68aa-437e-a72d-8e567aeacf18)
 
 ## Zusammenfassung
 
