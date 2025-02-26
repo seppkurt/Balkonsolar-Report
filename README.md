@@ -20,7 +20,7 @@ Intrinsische Motivation und Spaß bei der gekonnten Lastverteilung riesig.
 - viel Verschattung durch Haus und Baum
 - Jahresverbauch Haushalt siehe Tab "Naturstrom Abrechnung"
 - aufgrund Bakonsolar keine Einspeisevergütung für Strom der ins öffentliche Netz eingespeist wird und nicht lokal verbraucht wird.
-- Grundlast (zB nachts, ohne Kochen/Spülen, TV, Büro, Waschen) 80-140 (für 3 min) kWh _**(<-- Soll das nicht eher nur W heißen? Also 80-140W als Grundlast.)**_, die Batterie deckt das für 15-20 Stunden _**(Bei einer Batterie von 2 kWh oder wie viel???)**_, im Winter höher
+- Grundlast (zB nachts, ohne Kochen/Spülen, TV, Büro, Waschen) 80-140 (für 3 min) Watt, meine Batterie deckt das für 15-20 Stunden je nch Ladestand, im Winter höher
 - Mit einem weiteren kleinen Solarpanel (220 kWp) auf der Vorderseite des Hauses lässt sich der Grundbedarf zwischen 12 und 13:30 gut decken.
 - Erzeugung ergänzt in der Tabelle
 
@@ -58,7 +58,7 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 - Selbstverbaucht: **1.030 kWh**
 - Ersparnis bei 0,30 €/kWh: **309 €**
 - **PV-Eigenverbauch: 66 %**
-- **Autarkie bei ca 2.300 kWh Bedarf _(<-- Die 2300kWh Bedarf gelten sicher auch seit Beginn und ergeben sich aus PV-Erzeugung (inkl. Batteriepuffer) und Bezug aus dem Netz in dem Zeitraum, oder?)_: 44 %** (für Zeitraum bis große Batterie 1.300 kWH ca 40 % und danach 1.000 kWh ca 50%) _**(<-- Kannst du das nochmal genauer aufschlüsseln?)**_ 
+- **Autarkie bei ca 2.300 kWh Bedarf: 44 %** (für Zeitraum bis große Batterie 1.300 kWH ca 40 % und danach 1.000 kWh ca 50%) 
 - Freude und Spaß das System aufzusetzen: **unbezahlbar**
 
 ### Sonstiges
