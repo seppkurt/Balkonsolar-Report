@@ -62,7 +62,8 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 - Selbstverbaucht: **1.030 kWh**
 - Ersparnis bei 0,30 €/kWh: **309 €**
 - **PV-Eigenverbauch: 66 %**
-- **Autarkie bei ca 2.300 kWh Bedarf: 44 %** (für Zeitraum bis große Batterie 1.300 kWH ca 40 % und danach 1.000 kWh ca 50%) 
+- **Autarkie bei ca 2.300 kWh Bedarf: 44 %** (für Zeitraum bis große Batterie 1.300 kWH ca 40 % und danach 1.000 kWh ca 50%)
+- Die Solarmodule laden direkt die Batterie und damit ist es möglich, deutlich mehr als die 800 Watt Leistung (beschränkt durch die Regelung für Balkonsolaranlagen) anzuschließen.
 - Freude und Spaß das System aufzusetzen: **unbezahlbar**
 
 ### Sonstiges
@@ -87,3 +88,10 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 ## Next
 
 - noch 1 kWh Batterie dazusetzen, bereits Mitte April ist der Akku in ca. 4 Stunden (ca. 14:30) voll, wenn dann nicht verbraucht wird, geht der Strom als Einspeisung "verloren"
+- 
+
+## PS bzw. auf dem Weg hier her
+
+- Ich hatte noch weitere Batteriesysteme zum Test zu Hause. Beide habe ich zurückgesandt
+   - System A passte nicht mit der Spannung meiner Module zusammen. Es hätte allerdings eine spannende Einspeisereglung gehabt
+   - System B konnte nur über das Hausnetz mit konstant (hoher) Leistung geladen werden. Das war "damals" noch nicht Stand der Technik
