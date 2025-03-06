@@ -69,6 +69,7 @@ Zendure hatte lange einen Bug der bei voller Batterie die Erzeugung abgeschaltet
 ### Sonstiges
 
 - aufgrund meiner Verschattung und Ausrichtung, sparsam sein bis 11 Uhr, davor kaum Erzeugung
+- das Zendure System kann unter 100 Watt Einspeisung nur in Stufen von 30,60, 90 Watt einspeisen. Das ist ok, aber bei geringer Last wird es etwas ungenau.
 - kleines Solarmodule mit 240 kWp mit Solarnative-Wechselrichter auf der Vorderseite des Hauses erzeugt am Vormittag bis Mittag 200-300 kWh.
 - wenn die Batterie voll ist (Im Sommer Mai - August) ab ca. 15 Uhr STROM VERBRAUCHEN
     - variable Verbraucher anschalten, sonst Einspeisung in öffentliches Netz
